@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Header](‪C:\Users\erel7\Downloads\github-header-image.png)
+![Header](./github-header-image.png)
+
+
 <!--
 **sussiestbaka/sussiestbaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
